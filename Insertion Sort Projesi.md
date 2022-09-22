@@ -7,12 +7,12 @@
 [2,6,16,**22**,**18**,27]
 
 [2,6,16,18,22,27]
+***
+Big-O Gösterimi > O(n²)
+***
+4.Soru : > Worst Case
 
-Big-O Gösterimi > O(nlogn)
-
-4.Soru : >Worst Case
-
-
+***
 
 [**7**,3,5,8,**2**,9,4,15,6]
  
